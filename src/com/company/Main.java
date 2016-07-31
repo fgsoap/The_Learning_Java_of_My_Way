@@ -28,8 +28,6 @@ public class Main {
         System.out.printf("%8.2f",x);
         */
         System.out.printf("%Tc", new Date());
-        
-
 
     }
 }
